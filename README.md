@@ -1,5 +1,5 @@
 # SovietDOOM
-a zandronum mod for DOOM2 with stupid soviet stuff...
+a zandronum mod for DOOM2 with stupid soviet and russian stuff(memes included)...
 
 
 # Trailer
